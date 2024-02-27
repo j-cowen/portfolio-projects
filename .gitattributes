@@ -1,0 +1,55 @@
+# Documents
+*.doc   binary diff=exif
+*.docx  binary diff=docx
+*.dot   binary diff=exif
+*.dotx  binary diff=exif
+*.xls   binary diff=exif
+*.xlsx  binary diff=exif
+*.xlt   binary diff=exif
+*.xltm  binary diff=exif
+*.odb   binary diff=exif
+*.odf   binary diff=exif
+*.odg   binary diff=exif
+*.odi   binary diff=exif
+*.odp   binary diff=exif
+*.ods   binary diff=exif
+*.odt   binary diff=odt
+*.otc   binary diff=exif
+*.otg   binary diff=exif
+*.oti   binary diff=exif
+*.otp   binary diff=exif
+*.ots   binary diff=exif
+*.ott   binary diff=exif
+*.pdf   binary diff=exif
+*.ppt   binary diff=exif
+*.pptx  binary diff=exif
+*.ps    binary diff=exif
+
+# Fonts
+*.eot   binary
+*.otf   binary diff=exif
+*.ttc   binary diff=exif
+*.ttf   binary diff=exif
+*.woff  binary
+*.woff2 binary
+
+# Images
+*.ai    binary diff=exif
+*.bmp   binary diff=exif
+*.gif   binary diff=exif
+*.hqx   binary
+*.icns  binary
+*.ico   binary
+*.jpeg  binary diff=exif
+*.jpg   binary diff=exif
+*.png   binary diff=exif
+*.psd   binary diff=exif
+*.svg   text
+*.tif   binary diff=exif
+*.tiff  binary diff=exif
+
+# Archives
+*.gz    binary diff=exif
+*.tar   binary
+*.tgz   binary
+*.zip   binary diff=exif
